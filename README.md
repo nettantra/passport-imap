@@ -37,6 +37,7 @@ application:
 
 ## License
 
+  - [The MIT License](http://opensource.org/licenses/MIT)
 
 
-Copyright (c) [NetTantra Technologies](http://nettantra.com/)
+Copyright (c) [NetTantra](http://nettantra.com/)
