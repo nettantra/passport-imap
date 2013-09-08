@@ -1,0 +1,42 @@
+{
+  "name": "passport-imap",
+  "version": "0.0.1",
+  "description": "Imap  authentication strategy for Passport.",
+  "author": {
+    "name": "Manas Ranjan Sahoo",
+    "email": "manas.sahoo@nettantra.com",
+    "url": "http://www.nettantra.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nettantra/passport-imap.git"
+  },
+  "main": "./lib/passport-imap",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport": "~0.1.1",
+    "imap": "~0.8.1"
+  },
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "scripts": {
+    "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "passport",
+    "imap",
+    "auth",
+    "authn",
+    "authentication"
+  ]
+}
