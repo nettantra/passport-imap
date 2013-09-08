@@ -31,13 +31,9 @@ application:
         res.redirect('/');
       });
 
-## Credits
-
-  - [GeekTantra](http://github.com/geektantra)
-
 ## License
 
   - [The MIT License](http://opensource.org/licenses/MIT)
 
 
-Copyright (c) [NetTantra](http://nettantra.com/)
+Copyright (c) [NetTantra Technologies](http://www.nettantra.com/)
